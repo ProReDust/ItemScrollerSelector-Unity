@@ -1,7 +1,7 @@
-## Item Scroller & Selector (UGUI)
+# Item Scroller & Selector (UGUI)
 An item scroller with step selection for Unity's UGUI.
 
-# Features
+## Features
 - Item scaling and alpha depending on relation to the selected item 
 - Scroll speed and spacing adjustment
 - Set a maximum number of visible items at a time with fading effect
